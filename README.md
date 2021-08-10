@@ -14,6 +14,7 @@ A curated list of awesome bioimage analysis resources.
 * [From Images to Knowledge with ImageJ & Friends (I2K 2020)](https://www.janelia.org/you-janelia/conferences/from-images-to-knowledge-with-imagej-friends/virtual-workshop-program)
   * Recodings are available for some talks
 * [SciPy 2021 Bioimage Analysis Fundamentals in Python](https://github.com/sofroniewn/tutorial-scipy2021-bioimage-analysis-fundamentals)
+* [LMA 2021 Bioimage analysis in Python workshop](https://github.com/jni/lma-2021-bioimage-analysis-python)
 
 
 ## YouTube channels
