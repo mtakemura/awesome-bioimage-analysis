@@ -25,8 +25,9 @@ A curated list of awesome bioimage analysis resources.
 
 ## Training courses
 * [DL@MBL: Deep Learning for Microscopy Image Analysis](https://www.mbl.edu/education/courses/deep-learning-for-microscopy-image-analysis/)
+* [EMBL Course: Deep Learning for Image Analysis](https://www.embl.org/about/info/course-and-conference-office/events/mac22-01/)
 * [Advanced Methods in Bioimage Analysis](https://www.embl.de/training/events/2020/BIA20-01/)
-  * Postponed in 2021
+
 
 
 ## Datasets
@@ -34,3 +35,5 @@ A curated list of awesome bioimage analysis resources.
   * Paper: [Annotated high-throughput microscopy image sets for validation](https://pubmed.ncbi.nlm.nih.gov/22743765/)
 * [EVICAN](https://edmond.mpdl.mpg.de/imeji/collection/l45s16atmi6Aa4sI?q=)
   * Paper: [EVICAN—a balanced dataset for algorithm development in cell and nucleus segmentation](https://academic.oup.com/bioinformatics/article/36/12/3863/5814923)
+* [RxRx](https://www.rxrx.ai)
+  * Datasets released from Recursion’s automated cellular imaging and deep learning platform, to enable new machine learning tools and discover new biology
