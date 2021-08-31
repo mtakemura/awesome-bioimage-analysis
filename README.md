@@ -37,3 +37,5 @@ A curated list of awesome bioimage analysis resources.
   * Paper: [EVICAN—a balanced dataset for algorithm development in cell and nucleus segmentation](https://academic.oup.com/bioinformatics/article/36/12/3863/5814923)
 * [RxRx](https://www.rxrx.ai)
   * Datasets released from Recursion’s automated cellular imaging and deep learning platform, to enable new machine learning tools and discover new biology
+* [LIVECell](https://sartorius-research.github.io/LIVECell/)
+  * Paper: [LIVECell—A large-scale dataset for label-free live cell segmentation](https://www.nature.com/articles/s41592-021-01249-6)
