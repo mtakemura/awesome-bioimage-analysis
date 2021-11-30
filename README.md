@@ -9,7 +9,17 @@ A curated list of awesome bioimage analysis resources.
 * [Datasets](#datasets)
 
 
-## Symposia/Workshops
+## Seminars/Symposia/Workshops
+
+### Seminar series
+
+* [UCL Bioimage Analysis Interest Group](https://www.ucl.ac.uk/lmcb/ucl-bioimage-analysis-interest-group)
+  * Last Friday of each month
+* [Tissue Image Analytics (TIA) Centre seminar series](https://warwick.ac.uk/fac/cross_fac/tia/seminars/)
+  * The 1st and 3rd Mondays of each month
+
+### Symposia
+
 * [Crick BioImage Analysis Symposium](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2021)
 * [From Images to Knowledge with ImageJ & Friends (I2K 2020)](https://www.janelia.org/you-janelia/conferences/from-images-to-knowledge-with-imagej-friends/virtual-workshop-program)
   * Recodings are available for some talks
