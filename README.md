@@ -49,3 +49,5 @@ A curated list of awesome bioimage analysis resources.
   * Datasets released from Recursion’s automated cellular imaging and deep learning platform, to enable new machine learning tools and discover new biology
 * [LIVECell](https://sartorius-research.github.io/LIVECell/)
   * Paper: [LIVECell—A large-scale dataset for label-free live cell segmentation](https://www.nature.com/articles/s41592-021-01249-6)
+* [PMID2019](https://github.com/ouc-ocean-group/PMID2019)
+  * Paper: [Developing a microscopic image dataset in support of intelligent phytoplankton detection using deep learning](https://academic.oup.com/icesjms/article/77/4/1427/5572160) 
