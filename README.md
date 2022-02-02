@@ -51,3 +51,12 @@ A curated list of awesome bioimage analysis resources.
   * Paper: [LIVECell—A large-scale dataset for label-free live cell segmentation](https://www.nature.com/articles/s41592-021-01249-6)
 * [PMID2019](https://github.com/ouc-ocean-group/PMID2019)
   * Paper: [Developing a microscopic image dataset in support of intelligent phytoplankton detection using deep learning](https://academic.oup.com/icesjms/article/77/4/1427/5572160) 
+* [Test datasets for segmentation (2D, 3D, timelapses)]()
+  * Arabidopsis in 3D with membrane labelling for testing Unet, Stardist and denoising models.
+  * Ascadian mouse embryo in 3D imaged via light sheet for testing Unet and Stardist models.
+  * Carcinoma cells 3D + time data imaged under low SNR conditions for testing Unet, Stardist and Denoising models.
+  * Tissue in 2D + time for testing Unet models.
+  * https://zenodo.org/record/5911455#.YfoC4y8RppR
+
+
+
