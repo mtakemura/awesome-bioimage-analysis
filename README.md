@@ -37,6 +37,9 @@ A curated list of awesome bioimage analysis resources.
 * [DL@MBL: Deep Learning for Microscopy Image Analysis](https://www.mbl.edu/education/courses/deep-learning-for-microscopy-image-analysis/)
 * [EMBL Course: Deep Learning for Image Analysis](https://www.embl.org/about/info/course-and-conference-office/events/mac22-01/)
 * [Advanced Methods in Bioimage Analysis](https://www.embl.de/training/events/2020/BIA20-01/)
+* EMBL-EBI
+  * [Microscopy image analysis 2021](https://www.ebi.ac.uk/training/materials/microscopy-image-analysis-materials/)
+    * Presentation slides and lecture videos are available.
 
 
 
